@@ -1399,7 +1399,7 @@ module.exports =
             _react2.default.createElement(
               'span',
               null,
-              '\xA0SB Admin React - '
+              '\xA0SB Admin React - TESt '
             ),
             _react2.default.createElement(
               'a',
