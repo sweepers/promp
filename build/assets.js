@@ -1,1 +1,1 @@
-module.exports = {"main":{"js":"/assets/main.0341afc53754d17841ba.js"}};
+module.exports = {"main":{"js":"https://promp.netlify.com/assets/main.0341afc53754d17841ba.js"}};
